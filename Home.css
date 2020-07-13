@@ -1,0 +1,150 @@
+.u-section-1 .u-image-1 {min-height: 700px; background-image: url("images/Necrotic.png")}
+.u-section-1 .u-text-1 {font-size: 6rem; font-weight: 700; margin: 140px auto 0}
+.u-section-1 .u-text-2 {font-weight: 700; font-size: 1.25rem; margin: -17px 323px 60px 374px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-image-1 {min-height: 500px}
+.u-section-1 .u-text-2 {margin-right: 223px; margin-bottom: 0; margin-left: 274px} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-2 {margin-right: 113px; margin-left: 164px} }
+
+@media (max-width: 767px){ .u-section-1 .u-image-1 {min-height: 484px}
+.u-section-1 .u-text-2 {margin-right: 23px; margin-left: 74px} }
+
+@media (max-width: 575px){ .u-section-1 .u-image-1 {min-height: 381px}
+.u-section-1 .u-text-2 {margin-right: 0; margin-left: 0} }.u-block-ffb5-2 {position: absolute; bottom: 10px}
+.u-block-ffb5-3 {position: absolute; left: 0}
+.u-block-ffb5-4 {position: absolute; right: 0} 
+
+@media (max-width: 1199px){ .u-block-ffb5-2 {margin-bottom: 0}
+.u-block-ffb5-3 {margin-top: 0; margin-bottom: 0}
+.u-block-ffb5-4 {margin-top: 0} }.u-section-2-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/novaskin-minecraft-wallpaper2.jpeg"); background-position: 50% 50%}
+.u-section-2-1 .u-sheet-1 {min-height: 295px}
+.u-section-2-1 .u-text-1 {text-transform: uppercase; font-size: 6rem; font-weight: 700; margin: 11px 0 0}
+.u-section-2-1 .u-text-2 {font-size: 1.875rem; margin: 11px 0 0}
+.u-section-2-1 .u-btn-1 {background-image: none; text-transform: uppercase; font-weight: 700; margin: 11px auto 15px} 
+
+@media (max-width: 1199px){ .u-section-2-1 .u-sheet-1 {min-height: 300px}
+.u-section-2-1 .u-text-2 {margin-top: 13px}
+.u-section-2-1 .u-btn-1 {margin-top: 0; margin-bottom: 29px; margin-left: 34px} }
+
+@media (max-width: 991px){ .u-section-2-1 .u-sheet-1 {min-height: 800px}
+.u-section-2-1 .u-btn-1 {margin-left: 0} }
+
+@media (max-width: 767px){ .u-section-2-1 .u-sheet-1 {min-height: auto} }.u-section-2-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/SVMVtYp.jpg"); background-position: 50% 50%}
+.u-section-2-2 .u-sheet-1 {min-height: 295px}
+.u-section-2-2 .u-text-1 {margin: 57px 276px 0 auto}
+.u-section-2-2 .u-text-2 {margin: 28px 0 20px} 
+
+@media (max-width: 1199px){ .u-section-2-2 .u-sheet-1 {min-height: 300px}
+.u-section-2-2 .u-text-1 {width: auto; margin-right: auto}
+.u-section-2-2 .u-text-2 {margin-top: 14px; margin-bottom: 60px} }
+
+@media (max-width: 991px){ .u-section-2-2 .u-sheet-1 {min-height: 230px} }
+
+@media (max-width: 767px){ .u-section-2-2 .u-sheet-1 {min-height: 173px} }
+
+@media (max-width: 575px){ .u-section-2-2 .u-sheet-1 {min-height: 287px} }.u-section-2-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/2.png"); background-position: 50% 50%}
+.u-section-2-3 .u-sheet-1 {min-height: 295px}
+.u-section-2-3 .u-text-1 {text-transform: uppercase; font-size: 6rem; font-weight: 700; margin: 26px 0} 
+
+@media (max-width: 1199px){ .u-section-2-3 .u-sheet-1 {min-height: 300px}
+.u-section-2-3 .u-text-1 {font-size: 5.625rem; margin-top: 51px; margin-bottom: 0} }
+
+@media (max-width: 991px){ .u-section-2-3 .u-sheet-1 {min-height: 800px} }
+
+@media (max-width: 767px){ .u-section-2-3 .u-sheet-1 {min-height: auto}
+.u-section-2-3 .u-text-1 {font-size: 6rem} }.u-section-3 .u-sheet-1 {min-height: 740px}
+.u-section-3 .u-group-1 {width: 1083px; min-height: 338px; margin: 32px auto 0 24px}
+.u-section-3 .u-container-layout-1 {padding: 30px}
+.u-section-3 .u-text-1 {font-weight: 700; font-size: 3rem; margin: -4px auto 0 349px}
+.u-section-3 .u-text-2 {font-weight: 700; font-size: 1.875rem; margin: 48px auto 0}
+.u-section-3 .u-group-2 {width: 1083px; min-height: 339px; margin: 15px auto 16px}
+.u-section-3 .u-container-layout-2 {padding: 30px}
+.u-section-3 .u-text-3 {font-weight: 700; font-size: 3rem; margin: -10px auto 0}
+.u-section-3 .u-text-4 {font-weight: 700; font-size: 1.875rem; margin: 44px auto 0} 
+
+@media (max-width: 1199px){ .u-section-3 {min-height: 740px}
+.u-section-3 .u-group-1 {width: 940px; margin-left: 200px}
+.u-section-3 .u-text-1 {margin-left: 300px}
+.u-section-3 .u-text-2 {margin-left: 358px}
+.u-section-3 .u-group-2 {width: 940px; margin-left: 200px} }
+
+@media (max-width: 991px){ .u-section-3 .u-group-1 {width: 720px; margin-left: 420px}
+.u-section-3 .u-text-1 {margin-left: 225px}
+.u-section-3 .u-text-2 {margin-left: 269px}
+.u-section-3 .u-group-2 {width: 720px; margin-left: 420px} }
+
+@media (max-width: 767px){ .u-section-3 .u-group-1 {width: 540px; margin-left: 600px}
+.u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-text-1 {margin-left: 177px}
+.u-section-3 .u-text-2 {margin-left: 212px}
+.u-section-3 .u-group-2 {width: 540px; margin-left: 600px}
+.u-section-3 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-3 .u-group-1 {width: 340px; margin-left: 800px}
+.u-section-3 .u-text-1 {margin-left: 109px}
+.u-section-3 .u-text-2 {margin-left: 130px}
+.u-section-3 .u-group-2 {width: 340px; margin-left: 800px} }.u-section-4 {background-image: linear-gradient(45deg, #db545a, #478ac9); min-height: 50vw}
+.u-section-4 .u-layout-wrap-1 {width: 1102px; margin: 51px auto 60px}
+.u-section-4 .u-layout-cell-1 {min-height: 509px}
+.u-section-4 .u-container-layout-1 {padding: 30px}
+.u-section-4 .u-text-1 {margin: 0}
+.u-section-4 .u-text-2 {margin: 20px 0 0}
+.u-section-4 .u-text-3 {margin: 7px 0 0}
+.u-section-4 .u-btn-1 {font-weight: 700; background-image: none; margin: 99px auto 0 10px; padding: 10px 60px 10px 58px}
+.u-section-4 .u-layout-cell-2 {min-height: 509px}
+.u-section-4 .u-container-layout-2 {padding: 30px}
+.u-section-4 .u-text-4 {margin: 0}
+.u-section-4 .u-text-5 {margin: 23px 0 0}
+.u-section-4 .u-text-6 {margin: 0}
+.u-section-4 .u-btn-2 {font-weight: 700; background-image: none; margin: 179px 1px 0 auto; padding: 10px 60px 10px 58px}
+.u-section-4 .u-layout-cell-3 {min-height: 509px}
+.u-section-4 .u-container-layout-3 {padding: 30px}
+.u-section-4 .u-text-7 {margin: 0}
+.u-section-4 .u-text-8 {margin: 20px 0 0}
+.u-section-4 .u-text-9 {margin: 0}
+.u-section-4 .u-btn-3 {font-weight: 700; background-image: none; margin: 55px auto 0; padding: 10px 60px 10px 58px}
+.u-section-4 .u-layout-cell-4 {min-height: 509px}
+.u-section-4 .u-container-layout-4 {padding: 30px}
+.u-section-4 .u-text-10 {margin: 0}
+.u-section-4 .u-text-11 {margin: 20px 0 0}
+.u-section-4 .u-text-12 {margin: 0}
+.u-section-4 .u-btn-4 {font-weight: 700; background-image: none; margin: 30px auto 0; padding: 10px 60px 10px 58px} 
+
+@media (max-width: 1199px){ .u-section-4 {min-height: 481px}
+.u-section-4 .u-layout-wrap-1 {width: 940px; margin-left: calc(((100% - 1140px) / 2) + 100px)}
+.u-section-4 .u-layout-cell-1 {min-height: 347px}
+.u-section-4 .u-btn-1 {margin-left: 0; padding-right: 41px; padding-left: 41px}
+.u-section-4 .u-layout-cell-2 {min-height: 347px}
+.u-section-4 .u-btn-2 {margin-right: 0; padding-right: 41px; padding-left: 41px}
+.u-section-4 .u-layout-cell-3 {min-height: 347px}
+.u-section-4 .u-btn-3 {padding-right: 41px; padding-left: 41px}
+.u-section-4 .u-layout-cell-4 {min-height: 347px}
+.u-section-4 .u-btn-4 {padding-right: 41px; padding-left: 41px} }
+
+@media (max-width: 991px){ .u-section-4 .u-layout-wrap-1 {margin-left: calc(((100% - 720px) / 2)); width: 720px}
+.u-section-4 .u-layout-cell-1 {min-height: 100px; order: 0}
+.u-section-4 .u-btn-1 {margin-right: 0; padding-right: 106px; padding-left: 104px}
+.u-section-4 .u-layout-cell-2 {min-height: 100px; order: 1}
+.u-section-4 .u-btn-2 {padding-right: 106px; padding-left: 104px}
+.u-section-4 .u-layout-cell-3 {min-height: 100px; order: 3}
+.u-section-4 .u-btn-3 {margin-left: 0; margin-right: 0; padding-right: 106px; padding-left: 104px}
+.u-section-4 .u-layout-cell-4 {min-height: 100px; order: 2}
+.u-section-4 .u-btn-4 {padding-right: 105px; padding-left: 104px} }
+
+@media (max-width: 767px){ .u-section-4 {min-height: 515px}
+.u-section-4 .u-layout-wrap-1 {margin-left: calc(((100% - 540px) / 2)); width: 540px}
+.u-section-4 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-4 .u-btn-1 {margin-left: auto; margin-right: auto; padding-left: 124px; padding-right: 124px}
+.u-section-4 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-4 .u-btn-2 {margin-right: auto; padding-left: 124px; padding-right: 124px}
+.u-section-4 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-4 .u-btn-3 {margin-left: auto; margin-right: auto; padding-left: 124px; padding-right: 124px}
+.u-section-4 .u-container-layout-4 {padding-left: 10px; padding-right: 10px}
+.u-section-4 .u-btn-4 {padding-left: 124px; padding-right: 124px} }
+
+@media (max-width: 575px){ .u-section-4 .u-layout-wrap-1 {margin-left: calc(((100% - 340px) / 2)); width: 340px}
+.u-section-4 .u-btn-1 {padding-left: 117px; padding-right: 117px}
+.u-section-4 .u-btn-2 {padding-left: 117px; padding-right: 117px}
+.u-section-4 .u-btn-3 {padding-left: 117px; padding-right: 117px}
+.u-section-4 .u-btn-4 {padding-left: 117px; padding-right: 117px} }
